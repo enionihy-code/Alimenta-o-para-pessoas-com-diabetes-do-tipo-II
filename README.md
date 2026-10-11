@@ -10,12 +10,24 @@ proteína adequada para preservação da massa muscular (1,0 a 1,5 g/kg/dia)
 e gorduras insaturadas do padrão Mediterrâneo.
 
 ## Fontes utilizadass:
-Age Verification - Diretriz da Sociedade Brasileira de Diabetes - Ed. 2026
-DIABETES: DIAGNOSTIQUEI, E AGORA? - Episódio 217 Youtube
-Diretriz BRASPEN de Terapia Nutricional no Diabetes Mellitus
-Dra. Leticia Fuganti Campos, especialista em Nutrição - Minha Vida Youtube
-Live sobre Diabetes - Extramed
-Melhorando a qualidade de vida do paciente diabético | Avante Nestlé
-Prebióticos, Probióticos e Diabetes - Youtube
-Relatório de Pesquisa: Diretrizes e Trabalhos da Dra. Letícia Fuganti Campos sobre Diabetes Mellitus
+- Age Verification - Diretriz da Sociedade Brasileira de Diabetes - Ed. 2026
+- DIABETES: DIAGNOSTIQUEI, E AGORA? - Episódio 217 Youtube
+- Diretriz BRASPEN de Terapia Nutricional no Diabetes Mellitus
+- Dra. Leticia Fuganti Campos, especialista em Nutrição - Minha Vida Youtube
+- Live sobre Diabetes - Extramed
+- Melhorando a qualidade de vida do paciente diabético | Avante Nestlé
+- Prebióticos, Probióticos e Diabetes - Youtube
+- Relatório de Pesquisa: Diretrizes e Trabalhos da Dra. Letícia Fuganti Campos sobre Diabetes Mellitus
+
+## Diretriz de comportamento
+Informar ao paciente com diabetes do tipo 2 a metodologia para tratamento como: tipos de dietas por dia e refeição e formas e quantidade de atividades fisicas, exames a serem realizados e periodicidade, além do tratamento medicamentoso receitado pelo médico especialista.
+
+## Perguntas realizadas e o link das respostas:
+Qual é a dieta recomendada para as terças-feiras - Age Verification - Diretriz da Sociedade Brasileira de Diabetes - Ed. 2026
+O que é sarcopenia e o que devo fazer para previnir? - Live sobre Diabetes - Extramed
+O diagnóstico de diabetes do tipo 2 pode ser revertido? - Age Verification - Diretriz da Sociedade Brasileira de Diabetes - Ed. 2026
+
+## Link do repositório
+https://github.com/enionihy-code/Alimenta-o-para-pessoas-com-diabetes-do-tipo-II/edit/main/README.md
+
 
